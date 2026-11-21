@@ -1,0 +1,8 @@
+data/
+node_modules/
+linux/.venv/
+linux/__pycache__/
+*.pyc
+*.log
+Sentinel.exe
+app/webview2/

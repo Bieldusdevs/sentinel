@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Sentinel
+Comment=Workbench de cibersegurança com agentes de IA
+Exec=sh -c '"%k/../start.sh"'
+Terminal=true
+Categories=Security;Network;System;
+Icon=utilities-terminal

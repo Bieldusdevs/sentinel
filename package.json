@@ -1,0 +1,9 @@
+{
+  "name": "sentinel",
+  "version": "1.0.0",
+  "description": "Sentinel - workbench local de ciberseguranca com agentes de IA",
+  "private": true,
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=22.5.0" }
+}
